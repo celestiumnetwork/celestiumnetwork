@@ -4,8 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a passionate developer and tech enthusiast with a keen interest in open-source projects, web development, and cloud computing. I love exploring new technologies and continuously improving my skills.
-
+Celestium is a high-performance Layer 1 blockchain powered by Proof of Authority + AI consensus. Leveraging CelesBFT, Asynchronous Execution, Parallel Processing, and CelesDb enabling 10,000 TPS with full EVM compatibility. 
 ## Skills
 
 - **Languages:** JavaScript, Python, Java, C++
@@ -13,14 +12,6 @@ I am a passionate developer and tech enthusiast with a keen interest in open-sou
 - **Cloud:** AWS, Azure, Google Cloud
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **DevOps:** Docker, Kubernetes, CI/CD
-
-## Projects
-
-Here are some of the projects I've been working on:
-
-- [**Project A**](https://github.com/celestiumnetwork/project-a): Description of Project A.
-- [**Project B**](https://github.com/celestiumnetwork/project-b): Description of Project B.
-- [**Project C**](https://github.com/celestiumnetwork/project-c): Description of Project C.
 
 ## Get in Touch
 
